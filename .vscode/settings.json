@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "list": "cpp",
+        "main.h": "c",
+        "atomic": "cpp",
+        "xiosbase": "cpp",
+        "socket.h": "c",
+        "signal.h": "c"
+    }
+}
